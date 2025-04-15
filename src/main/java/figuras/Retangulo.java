@@ -1,5 +1,7 @@
 package figuras;
+
 import figuras.Figura;
+
 public class Retangulo extends Figura {
 
     private double altura;
