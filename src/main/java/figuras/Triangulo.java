@@ -1,4 +1,4 @@
-package triangulo;
+package figuras;
 
 import figuras.Figura;
 

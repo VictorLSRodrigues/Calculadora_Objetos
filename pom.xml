@@ -19,7 +19,7 @@
         <version>0.8.12</version>
         <configuration>
             <excludes>
-                <exclude>**/Principal/*Principal.*</exclude>
+                <exclude>**/principal/*Principal.*</exclude>
             </excludes>
         </configuration>
         <executions>

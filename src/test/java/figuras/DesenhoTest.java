@@ -1,10 +1,10 @@
-package desenho;
+package figuras;
 
-import desenho.Desenho;
+import figuras.Desenho;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
-import retangulo.Retangulo;
-import triangulo.Triangulo;
+import figuras.Retangulo;
+import figuras.Triangulo;
 public class DesenhoTest {
 
     @Test

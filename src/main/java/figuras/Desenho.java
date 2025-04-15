@@ -1,4 +1,4 @@
-package desenho;
+package figuras;
 
 import java.util.ArrayList;
 import java.util.List;

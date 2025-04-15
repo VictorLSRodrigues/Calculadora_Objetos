@@ -1,8 +1,8 @@
 package principal;
 
-import desenho.Desenho;
-import retangulo.Retangulo;
-import triangulo.Triangulo;
+import figuras.Desenho;
+import figuras.Retangulo;
+import figuras.Triangulo;
 import javax.swing.JOptionPane;
 
 public class Principal {

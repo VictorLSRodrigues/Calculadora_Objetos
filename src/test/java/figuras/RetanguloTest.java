@@ -1,6 +1,6 @@
-package retangulo;
+package figuras;
 
-import retangulo.Retangulo;
+import figuras.Retangulo;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

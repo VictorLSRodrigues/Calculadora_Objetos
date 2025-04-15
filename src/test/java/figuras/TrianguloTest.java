@@ -1,6 +1,6 @@
-package triangulo;
+package figuras;
 
-import triangulo.Triangulo;
+import figuras.Triangulo;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

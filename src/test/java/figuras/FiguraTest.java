@@ -2,7 +2,6 @@ package figuras;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
-import retangulo.Retangulo;
 
 public class FiguraTest {
 

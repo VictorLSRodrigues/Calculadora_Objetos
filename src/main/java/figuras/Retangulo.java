@@ -1,4 +1,4 @@
-package retangulo;
+package figuras;
 import figuras.Figura;
 public class Retangulo extends Figura {
 
